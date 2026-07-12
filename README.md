@@ -3,7 +3,7 @@ toggle, pause music, resume, i think there should be no media playing on phone, 
 
 this is all ai slop
 
-inside this extracted zip, run build.sh for linux/macos or build.ps1 from windows powershell
+download the zip, inside this extracted zip, run build.sh for linux/macos or build.ps1 from windows powershell
 
 ideally, the build scripts will see if u have openjdk and android commandlinetools installed, 
 if not, they will download and install them in you rworking dir and temporarily change paths for your session
